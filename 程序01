@@ -1,0 +1,7 @@
+/*	my c file.c	*/
+#include"stdio.h"
+void main()								/*主函数*/
+{
+	printf("Hello, world!\n");			/*输出语句*/
+	printf("This is a C proogram.\n");	/*输出语句*/
+}
