@@ -1,6 +1,6 @@
-/*	my c file.c	*/
+﻿/*	my c file.c	*/
 #include"stdio.h"
-void main()								/*主函数*/
+void main()								/*主函数六月二十号*/
 {
 	printf("Hello, world!\n");			/*输出语句*/
 	printf("This is a C proogram.\n");	/*输出语句*/
